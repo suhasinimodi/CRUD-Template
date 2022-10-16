@@ -26,27 +26,20 @@ nav{
 }
 
 .table{
-    margin:20px;
+    margin:20px 0 0 20px;
 }
-
-table{
-    border-collapse: collapse;
-    width: 100%;
-    margin: 0 auto;
-    border: 1px solid #ddd;
-    font-size: 18px;
+.form_html{
+    margin:20px 0 0 10px;
 }
-
-th, td{
-    text-align: left;
-    padding: 16px;
+.form_html div{
+    display: flex;
+    justify-content: space-between;
+    width:280px;
+    margin: 10px;
 }
-
-tr:nth-child(even){
-    background-color: #f2f2f2;
-}
-
-th{
-    background-color: #4CAF50;
-    color: white;
+.form_html input{
+    padding:3px 3px;
+    outline:none;
+    border:none;
+    box-shadow: #ff8181 3px 3px 3px -2px;
 }
