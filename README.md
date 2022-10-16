@@ -58,6 +58,3 @@ If you liked working on this project, please share this project as much as you c
   <img src="https://contributors-img.web.app/image?repo=assassinhack/CRUD-Template" />
 </a>
 
-## Special thanks:+1: to:
-
-* [maheshjainckd](https://github.com/maheshjainckd)
